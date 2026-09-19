@@ -20,13 +20,10 @@ Designed in KiCad.
 
 ## Case
 
-![Case](images/case.png)
+<img width="620" height="516" alt="Case1 (2)" src="https://github.com/user-attachments/assets/73f602b7-2745-4861-9c7a-96fc287b2808" /> <img width="644" height="559" alt="Case1 (1)" src="https://github.com/user-attachments/assets/be944f77-b25a-4b35-9bf9-7215d6b68400" />
 
 Designed in Fusion 360.
 
-## Final Design
-
-![Macropad](images/final.png)
 
 ## Firmware
 
@@ -44,5 +41,7 @@ Production files are available in the `production` folder, including:
 
 ## Credits
 
-Designed and built by **Daksh Agrawal**  
-Hack Club Stardance project.
+Designed and built by **me (daksh agrawal)**  
+
+
+thanks for checking out my project :)))
