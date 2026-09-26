@@ -17,6 +17,9 @@ A custom 5-key macropad built around the Seeed XIAO RP2040.
 <img width="620" height="575" alt="PCBB" src="https://github.com/user-attachments/assets/21d75436-7f53-499f-a896-5f492b5e1a84" />
 
 Designed in KiCad.
+## Schematic 
+
+<img width="923" height="699" alt="image" src="https://github.com/user-attachments/assets/a721ccfe-bdb8-403d-8acc-1d087b8a6531" />
 
 ## Case
 
